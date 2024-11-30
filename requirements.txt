@@ -1,0 +1,14 @@
+miditok
+symusic
+
+tqdm
+
+kagglehub
+
+scikit-learn
+transformers
+accelerate
+
+
+tensorboard
+ipywidgets
